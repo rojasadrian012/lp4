@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CiudadRestService.java&apos; to &apos;BIBLIOTECA-REST/src/org.biblioteca.abm.rest&apos;&#x0D;&#x0A;- Original project: &apos;BIBLIOTECA-REST&apos;&#x0D;&#x0A;- Destination element: &apos;BIBLIOTECA-REST/src/org.biblioteca.abm.rest&apos;&#x0D;&#x0A;- Original element: &apos;org.biblioteca.rest.CiudadRestService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;org.biblioteca.abm.rest" element1="/src&lt;org.biblioteca.rest{CiudadRestService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1630252615573" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PROYECTO-REST&apos; to &apos;BIBLIOTECA-WEB&apos;" description="Rename resource &apos;PROYECTO-REST&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PROYECTO-REST" name="BIBLIOTECA-WEB" stamp="1662320969157" updateReferences="true"/>
+</session>

@@ -1,0 +1,11 @@
+#Sun Sep 04 14:28:38 PYT 2022
+vl=0 \= failed, 1 \= successful
+l=Server Runtime ID
+ct=server
+d=1662316118725
+c=0
+cmp=server
+a=new
+cl=org.jboss.ide.eclipse.as.wildfly.150
+v=3.9.0
+s=0

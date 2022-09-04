@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.management.Query"/>
+<fullyQualifiedTypeName name="javax.enterprise.inject.Produces"/>
+<fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+<fullyQualifiedTypeName name="javax.websocket.server.PathParam"/>
+<fullyQualifiedTypeName name="org.biblioteca.entidad.Ciudad"/>
+<fullyQualifiedTypeName name="org.biblioteca.entidad.Usuario"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.session.UsuarioSession"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.session.AutorSession"/>
+<fullyQualifiedTypeName name="org.biblioteca.entidad.Autor"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.biblioteca.entidad.Prestamo"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="org.biblioteca.entidad.PrestamoLibro"/>
+<fullyQualifiedTypeName name="java.beans.Transient"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.Transient"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.biblioteca.mov.session.PrestamoSession"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="org.jboss.resteasy.plugins.interceptors.CorsFilter"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.CiudadRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.mov.rest.PrestamoLibroRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.mov.rest.PrestamoRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.CiudadNormalizadoRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.ClienteNormalizadoRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.LibroNormalizadoRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.AutorNormalizadoRestService"/>
+<fullyQualifiedTypeName name="org.biblioteca.abm.rest.UsuarioNormalizadoRestService"/>
+</qualifiedTypeNameHistroy>
